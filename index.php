@@ -2,4 +2,4 @@
 
 echo "Hello Git to UTM";
 
-echo "Intro to Git";
+echo "Intro to Git basic";
